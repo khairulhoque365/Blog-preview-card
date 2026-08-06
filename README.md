@@ -15,7 +15,7 @@ This is my solution to the Blog preview card challenge from Frontend Mentor.
 - Mobile-friendly layout
 
 ## Live Site
-
+https://khairulhoque365.github.io/Blog-preview-card/
 
 ## Author
 GitHub - https://github.com/khairulhoque365
